@@ -1,4 +1,3 @@
-Example 2: Read, Store and Display User Input using Bash Script
 #!/bin/bash
 echo "Enter a number:"
 read num

@@ -5,4 +5,4 @@ then
     echo "Process is running."
 else
     echo "Process is not running."
-Fi
+fi
