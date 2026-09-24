@@ -20,8 +20,7 @@
    ~ Tux aprueba este taller ~
 ```
 
-**Estudiante:** _(nombre completo)_ · **Correo:** _(email)_ · **Código:** _(código)_
-
+**Estudiante:** Daniel Fernando Parra Diaz· **Correo:** danielferparradiaz@gmail.com · **Código:** 2246997
 </div>
 
 ---
