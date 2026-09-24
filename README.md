@@ -140,8 +140,5 @@ cmatrix
 ---
 
 ## 📝 Notas y correcciones
-
-- `ej02`: se eliminó una línea de título (`Example 2: ...`) que venía pegada por error desde la guía.
-- `ej20`: se corrigió `Fi` → `fi` (typo que rompía el cierre del `if`).
 - `ej27`: genera el archivo `network.<dd-mm-yy>.info.txt` — **ese es el adjunto que se envía con el taller resuelto**.
 - La guía original del taller está en [`guia.txt`](guia.txt).
